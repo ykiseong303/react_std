@@ -57,7 +57,7 @@ class Board extends React.Component {
             />
       );
     }
-  
+    //화면출력
     render() {
       const status = 'Next player: X';
   
